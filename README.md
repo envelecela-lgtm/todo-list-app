@@ -38,7 +38,7 @@ Aplicación web sencilla de "Lista de Tareas" hecha con HTML, CSS y JavaScript p
 "]_
 
 ### Burndown Chart
-> _[<img width="1522" height="775" alt="WhatsApp Image 2026-08-19 at 13 05 48" src="https://github.com/user-attachments/assets/d22561ab-52d0-4480-a109-e6b4e3ba0704" />
+> _[<img width="1917" height="1198" alt="Captura de pantalla 2026-08-20 122538" src="https://github.com/user-attachments/assets/2f00d0a9-c63a-4008-8f06-931e4bf6d80f" />
 ]_
 
 ### Ejecución del pipeline de CI (GitHub Actions)
@@ -71,4 +71,4 @@ Checklist de revisión del incremento:
 
 ## Autor
 
-Deison — Desarrollo de Aplicaciones Web, Nivel 2, ISTLT
+Evelyn Velecela — Desarrollo de Aplicaciones Web, Nivel 2, ISTLT
